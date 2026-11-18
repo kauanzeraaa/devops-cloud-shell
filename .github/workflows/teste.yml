@@ -13,7 +13,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./aula11devops
+        working-directory:
 
     steps:
       - name: Baixar codigo
